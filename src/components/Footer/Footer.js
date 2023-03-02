@@ -9,7 +9,7 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section about">
             <p className="footer-para">
-              Developer: <span className="my-name"> Tadawvkugwviywrvuvwbi</span>
+              Developer: <span className="my-name"> Mush_offl</span>
             </p>
 
             <div className="contact"></div>
@@ -44,7 +44,7 @@ function Footer() {
               </a>
             </div>
             <p className="copyright">
-              Copyright&nbsp;&copy;&nbsp;Nsdvsdike Shoes Temdsvdvsdsvsplate
+              Copyright&nbsp;&copy;&nbsp;2023 Nike, Inc. All Rights Reserved
             </p>
             <br />
           </div>
