@@ -21,7 +21,7 @@ export default function SummaryCard({ items, amount }) {
         </Typography>
         {amount > 0 && (
           <Link className="hvr-grow about-button" to="/checkout">
-            Proceed to Chaackout
+            Proceed to Checkout
           </Link>
         )}
       </CardContent>
